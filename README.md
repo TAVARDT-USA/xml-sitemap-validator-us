@@ -1,4 +1,4 @@
-# XML Sitemap and Index Validator | TAVARDT USA
+# XML Sitemap and Index Validator
 
 [![XML Sitemap Validator](https://img.shields.io/badge/TAVARDT-Sitemap%20XML-5b3cf5.svg)](https://tools.tavardt.com/xml-sitemap-validator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ For live sitemap debugging and search bot simulation:
 ## Crawl Engineering and Indexing Advisory
 
 For large-scale dynamic sitemap engineering and compliance with Sitemaps.org Protocol and Web Standards, connect with **TAVARDT USA**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
