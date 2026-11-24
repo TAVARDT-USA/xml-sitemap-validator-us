@@ -5,7 +5,7 @@
 
 Comprehensive XML sitemap validation engine auditing namespace conformity, URL limits, date formatting, and search bot accessibility.
 
-Engineered and maintained by the search engine infrastructure and indexing team at **TAVARDT USA**.
+Engineered and maintained by the search engine infrastructure and indexing team at **TAVARDT**.
 
 ***
 
@@ -48,7 +48,7 @@ For live sitemap debugging and search bot simulation:
 
 ## Crawl Engineering and Indexing Advisory
 
-For large-scale dynamic sitemap engineering and compliance with Sitemaps.org Protocol and Web Standards, connect with **TAVARDT USA**.
+For large-scale dynamic sitemap engineering and compliance with Sitemaps.org Protocol and Web Standards, connect with **TAVARDT**.
 
 ***
 
