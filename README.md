@@ -2,6 +2,7 @@
 
 [![XML Sitemap Validator](https://img.shields.io/badge/TAVARDT-Sitemap%20XML-5b3cf5.svg)](https://tools.tavardt.com/xml-sitemap-validator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Comprehensive XML sitemap validation engine auditing namespace conformity, URL limits, date formatting, and search bot accessibility.
 
@@ -49,6 +50,20 @@ For live sitemap debugging and search bot simulation:
 ## Crawl Engineering and Indexing Advisory
 
 For large-scale dynamic sitemap engineering and compliance with Sitemaps.org Protocol and Web Standards, connect with **TAVARDT**.
+
+***
+
+## Governance and Sovereignty
+
+* **Sovereign Unit**: [TAVARDT United States](https://ag.tavardt.com/us/) (`TAVARDT-USA`)
+* **Core Standards**: [00-core Governance](https://github.com/TAVARDT-USA/00-core)
+* **Diagnostic Portal**: [TAVARDT US Diagnostic Suite](https://tools.tavardt.com/us/)
+* **Enterprise Security**: [TAVARDT US Cybersecurity](https://ag.tavardt.com/us/cybersecurity/)
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
