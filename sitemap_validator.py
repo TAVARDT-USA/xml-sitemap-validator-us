@@ -111,8 +111,8 @@ def validate_sitemap(sitemap_url, timeout=8):
 def main():
     parser = argparse.ArgumentParser(description="TAVARDT USA - XML Sitemap Validator")
     parser.add_argument("target", help="Sitemap URL or domain to audit")
-    parser.add_argument("--json", action="store_true", help="Output results in JSON format")
-    parser.add_argument("--timeout", type=int, default=8, help="Request timeout in seconds")
+    parser.add_argument("-json", "--json", action="store_true", help="Output results in JSON format")
+    parser.add_argument("-timeout", "--timeout", type=int, default=8, help="Request timeout in seconds")
 
     args = parser.parse_args()
     report = validate_sitemap(args.target, timeout=args.timeout)
