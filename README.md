@@ -6,8 +6,6 @@
 
 Comprehensive XML sitemap validation engine auditing namespace conformity, URL limits, date formatting, and search bot accessibility.
 
-Engineered and maintained by the search engine infrastructure and indexing team at **TAVARDT**.
-
 ***
 
 ## XML Sitemap Validation Capabilities
@@ -38,15 +36,6 @@ python sitemap_validator.py https://example.com/sitemap.xml -json
 
 ***
 
-## Online Validation Platform
-
-For live sitemap debugging and search bot simulation:
-
-* **Official XML Sitemap Validator**
-* **TAVARDT Corporate Portal**
-
-***
-
 ## Crawl Engineering and Indexing Advisory
 
 For large-scale dynamic sitemap engineering and compliance with Sitemaps.org Protocol and Web Standards, connect with **TAVARDT**.
@@ -64,7 +53,7 @@ For large-scale dynamic sitemap engineering and compliance with Sitemaps.org Pro
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
